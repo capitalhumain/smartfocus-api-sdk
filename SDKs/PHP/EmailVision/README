@@ -1,0 +1,9 @@
+The folder contains different implementations for SmartFocus Apis. We can find here the following APIs:
++ Notification
++ Transactional Message
++ Batch Member
++ Member
+
+Prerequisites :
++ PHP 5.3
++ Soap + OpenSSL php extension should be activated
